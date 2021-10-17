@@ -11,7 +11,8 @@
  
  Após a ideia inicial proposta pela comunidade codelândia fiz algumas alterações e criei o meu portifolio personalizado.
 
-![Cadatro](https://ik.imagekit.io/bga7odqg1yl/README/projeto_BFQTEVZwF.webm?updatedAt=1634503860474)
+
+![Resultado final do projeto](assets/image/DesignCompleto.gif)
 
 <h4 align="center"><a href="https://bea-ferraz.github.io/Portifolio.github.io/">Clique para visitar o projeto</a></h4>
 
@@ -41,7 +42,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/bea-ferraz">
-        <img src="assets/image/avatarbea.jpeg" width="100px;" alt="Foto da Beatriz"/><br>
+        <img src="assets/image/bea.jpeg" width="100px;" alt="Foto da Beatriz"/><br>
         <sub>
           <b>Beatriz Ferraz</b>
         </sub>
