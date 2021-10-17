@@ -9,11 +9,15 @@
 
 <h4 align="center"><a href="https://bea-ferraz.github.io/Portifolio.github.io/">Clique para visitar o projeto</a></h4>
 
+---
+
 ### 💡 Ideia:
 
  A ideia de desenvolver esse projeto surgiu após conhecer a comunidade do Discord "Codelândia" do Iuri Silva, a base que segui para desenvolver o portfolio está disponivel como um desafio, o link do mesmo no Figma é: https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios-Codel%C3%A2ndia?node-id=13190%3A2.
  
  Após a ideia inicial proposta pela comunidade codelândia fiz algumas alterações e criei o meu portifolio personalizado.
+ 
+---
 
 ## 📚 Seções
 O site é composto por 5 seções diferentes:
