@@ -11,8 +11,7 @@
  
  Após a ideia inicial proposta pela comunidade codelândia fiz algumas alterações e criei o meu portifolio personalizado.
 
-
-![Resultado final do projeto](https://ik.imagekit.io/bga7odqg1yl/README/projeto_BFQTEVZwF.webm?updatedAt=1634503860474)
+(![Cadatro](https://ik.imagekit.io/bga7odqg1yl/README/projeto_BFQTEVZwF.webm?updatedAt=1634503860474)
 
 <h4 align="center"><a href="https://bea-ferraz.github.io/Portifolio.github.io/">Clique para visitar o projeto</a></h4>
 
