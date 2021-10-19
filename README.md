@@ -7,7 +7,7 @@
 
 ![Resultado final do projeto](assets/image/DesignCompleto.gif)
 
-<h4 align="center"><a href="https://bea-ferraz.github.io/Portifolio.github.io/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://bea-ferraz.github.io/Portifolio/">Clique para visitar o projeto</a></h4>
 
 ---
 
