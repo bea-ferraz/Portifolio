@@ -45,7 +45,8 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/bea-ferraz">
-        <img src="assets/image/beeaemot.jpeg" width="100px;" alt="Foto da Beatriz"/><br>
+        <img src="https://ik.imagekit.io/bga7odqg1yl/HACKATON/1690235267349_bFfePpBbv.jpg?updatedAt=169223385232" width="100px;"       
+         alt="Foto da Beatriz"/><br>
         <sub>
           <b>Beatriz Ferraz</b>
         </sub>
